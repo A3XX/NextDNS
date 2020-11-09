@@ -1,4 +1,4 @@
-# Protect your privacy on smartphones
+# Improve your privacy & security on smartphones
 
 ## What is DNS? 
 The Domain Name System (DNS) is like the yellow pages of the Internet. Computers on a network need IPs addresses of the web servers. 
