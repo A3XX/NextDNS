@@ -21,12 +21,12 @@ NextDNS take a different approach to DNS. They not only encrypt your requests, b
 They are simply cloud hosted version of pi-hole. If you want to setup your pi-hole. 
 Visit [https://a3xx.github.io/dns_at_home](https://a3xx.github.io/dns_at_home) if you're inrested settting up your pi-hole with encrypted DNS.
 
-## Cost 
-300,000 queries/month1  
+## Cost - $0/month 
+300,000 queries/month  
 Unlimited devices  
 Unlimited configurations   
 Access to all features  
-$0/month   
+
 
 
 ## Sign up 
