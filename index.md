@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## What is DNS? 
+The Domain Name System (DNS) is like the yellow pages of the Internet. Computers on a network need IPs addresses of the web servers. 
+ 
+ 
+## Do you know what DNS service YOU are using?
 
-You can use the [editor on GitHub](https://github.com/A3XX/NextDNS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The answer to the above is usually no.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## What’s the risk?
+Ever since DNS was created in 1987, it has been largely unencrypted. Everyone between your device and the resolver is able to snoop on or even modify your DNS queries and responses. This includes anyone in your local Wi-Fi network, your Internet Service Provider (ISP), and in-transit providers (or your government). This may affect your privacy by revealing the domain you are visiting.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Imagine, you sit down in a cafe, and open your laptop. I am sitting in the corner and I have decided I am going to learn about you. I watch your unencrypted DNS requests go to cat-memes.com and every few minutes you check out webmd.com. I can easily tell maybe that you’re sick and have a cat. A lot can be learned by watching someone’s internet usage and privacy becomes an issue from other users or your ISP (or government).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## NextDNS = Pihole + DNS over TLS 
 
-- Bulleted
-- List
+NextDNS  take a different approach to DNS. They not only encrypt your requests, but they also block ads, trackers and malicious websites on all your devices. 
 
-1. Numbered
-2. List
+## Cost 
+300,000 queries/month1
+Unlimited devices
+Unlimited configurations
+Access to all features
+$0/month
 
-**Bold** and _Italic_ and `Code` text
+## Sign up 
+Create free account by visiting [https://nextdns.io](https://nextdns.io )
 
-[Link](url) and ![Image](src)
-```
+![ND1](https://github.com/A3XX/NextDNS/raw/main/img/1.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Setup NextDNS on iPhone
+1.Open https://apple.nextdns.io on your iPhone. 
+2. copy ID from your account and enter the ID e.g. 75ca5f
+3. Enter device name e.g. John's iPhone, Sara's iPhone
+4. Open the Settings app.
+4. Tap Profile Downloaded.
+5. Tap Install in the upper-right corner, then follow the onscreen instructions.
 
-### Jekyll Themes
+## Setup NextDNS on Andriod (Android 9 or higher)
+1. Go to Settings → Network & internet → Advanced → Private DNS.
+2. Select the Private DNS provider hostname option.
+3. Copy and enter DNS-over-TLS address from your account e.g. 75ca5f.dns.nextdns.io and hit Save.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A3XX/NextDNS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
