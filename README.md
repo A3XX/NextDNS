@@ -18,8 +18,9 @@ Imagine, you sit down in a cafe, and open your smartphone. I am sitting in the c
 ## NextDNS = Pihole + DNS over TLS 
 
 NextDNS take a different approach to DNS. They not only encrypt your requests, but they also block ads, trackers and malicious websites on all your devices.
-They are simply cloud hosted version of pi-hole. If you want to setup your pi-hole. Visit [https://a3xx.github.io/dns_at_home](https://a3xx.github.io/dns_at_home)
-pi-hole
+They are simply cloud hosted version of pi-hole. If you want to setup your pi-hole. 
+Visit [https://a3xx.github.io/dns_at_home](https://a3xx.github.io/dns_at_home) if you're inrested settting up your pi-hole with encrypted DNS.
+
 ## Cost 
 300,000 queries/month1
 Unlimited devices
