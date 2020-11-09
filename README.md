@@ -30,7 +30,7 @@ Create free account by visiting [https://nextdns.io](https://nextdns.io )
 ![ND1](https://github.com/A3XX/NextDNS/raw/main/img/1.PNG)
 
 ## Setup NextDNS on iPhone
-1.Open https://apple.nextdns.io on your iPhone. 
+1. Open https://apple.nextdns.io on your iPhone. 
 2. copy ID from your account and enter the ID e.g. 75ca5f
 3. Enter device name e.g. John's iPhone, Sara's iPhone
 4. Open the Settings app.
