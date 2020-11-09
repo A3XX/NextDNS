@@ -30,7 +30,7 @@ Access to all features
 
 
 ## Sign up 
-Create free account by visiting [https://nextdns.io](https://nextdns.io )
+Create a free account by visiting [https://nextdns.io](https://nextdns.io )
 
 ![ND1](https://github.com/A3XX/NextDNS/raw/main/img/1.PNG)
 
